@@ -1,0 +1,4 @@
+La memoria total es de :
+2010896
+La informacion del chasis es :
+Oracle
